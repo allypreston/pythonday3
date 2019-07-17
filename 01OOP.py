@@ -4,6 +4,7 @@
 # - invocation
 # *** the block of code that runs the operations
 # A class is an overarching thing that holds a series of functions
+# it is like a template
 # a variable only stored inside the function is known as a local variable
 
 
