@@ -18,7 +18,7 @@ cat = Animal()  # new animal
 print(dog1.speak()) # object dog know's this because of having self
 print(dog1.eat()) # object dog does not know this because of not having self
 
-print(Animal.speak()) # animal does not know this cause it doesn't have self
+# print(Animal.speak()) # animal does not know this cause it doesn't have self
 print(Animal.eat()) # animal does know this cause it does not have self
 
 
